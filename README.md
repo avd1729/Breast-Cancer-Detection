@@ -90,3 +90,6 @@ plt.show()
 
 This project provides a comprehensive example of breast cancer detection, from data analysis to model training and evaluation. The classification model's high accuracy and informative error analysis make it a valuable tool for medical diagnosis.
 
+
+**Contributors**:
+- [<img src="https://avatars.githubusercontent.com/u/91361858?v=4" width="40" height="40" alt="GitHub Icon">](https://github.com/SrSurajithPranav)
